@@ -20,5 +20,3 @@ Google Cloud Platform
 ## Data Model
 <img src="data_model.jpeg">
 
-Thanks to @Darshil Parmar for amazing Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
